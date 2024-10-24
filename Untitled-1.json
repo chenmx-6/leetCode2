@@ -1,0 +1,13 @@
+{
+    "appCode": "aftersales_message",
+    "appSecret": "hVqfPpFWNHz2zvkp",
+    "messageParams": {
+        "trade_record_id": "TXZC20241023348926"
+    },
+    "receiveType": "EMPLOYEE_CODE",
+    "receiver": "97112825829184",
+    "roleId": 27085,
+    "sendType": "EMPLOYEE_CODE",
+    "templateCode": "dfp_payouts_fail_message",
+    "uuid": "2024102312223873857564154099067895677692199206459042557650251542"
+}
